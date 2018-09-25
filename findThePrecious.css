@@ -1,0 +1,431 @@
+@font-face {
+    font-family: "Aniron";
+    src : url("anicb___.ttf");
+} 
+
+@font-face {
+    font-family: "tngan";
+    src: url("tngan.ttf"),
+    url("font/tngan/tnganb.ttf"),
+    url("font/tngan/tnganbi.ttf"),
+    url("font/tngan/tngandoc.ttf"),
+    url("font/tngan/tngani.ttf");
+}
+@font-face {
+    font-family: "party";
+    src: url("partybusiness.ttf");
+}
+body{
+    background: url(bg_light.png);
+}
+
+nav a {
+    font-family: "Aniron";
+}
+.ij{
+    font-family: "tngan";
+    color: #FC8700;
+}
+.textDuBoutton{
+    color: #FC8700;
+    font-size: 20px;
+    font-family: "Aniron";
+}
+.bgOrange{
+    background-color: #FC8700;
+}
+.text-orange{
+    color: orange;
+}
+.goldenCoins{
+    font-size: 30px;
+}
+.capture{
+    color: white;
+    font-family: "party";
+}
+.card-header{
+    border-bottom: 1px solid black;
+}
+.card-text{
+    font-family: "party";
+}
+
+.bg-img-dark {
+    background: url(bg_dark.png);
+    border: solid black 4px;
+}
+tbody{
+    color: grey;
+
+}
+.myPrecious{
+    font-family: "party";
+}
+.wantedFellows{
+
+    font-family: "Aniron";
+}
+.nav-link{
+    font-family: "Aniron";
+}
+td{
+    font-family: "Aniron";
+    color: grey;
+}
+.card-body{
+    font-family: "Aniron";
+    background-color: #e0e0e0;
+}
+.MasterSauron{
+    font-family: "party";
+    font-size: 30px;
+}
+
+.containerslide .carousel-inner .carousel-item {
+    max-height: 700px;
+}
+
+.containerslide .carousel-inner .carousel-item .carousel-item-content {
+    position: relative;
+}
+
+.containerslide .carousel-inner .carousel-item .carousel-item-content .overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.containerslide .carousel-inner .carousel-item .carousel-item-content img {
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: bottom;
+    object-position: bottom;
+    max-height: 700px;
+}
+.containerslide .carousel-inner .carousel-item .carousel-item-content .carousel-caption {
+    bottom: 0;
+    top: 0;
+    text-align: left;
+    height: 100%;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.containerslide .carousel-inner .carousel-item .carousel-item-content .carousel-caption h5 {
+    font-size: 3rem;
+    margin-bottom: .75em;
+    font-family: "Aniron";
+}
+
+.containerslide .carousel-inner .carousel-item .carousel-item-content .carousel-caption p {
+    font-size: 2.5rem;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-family: "party";
+} 
+.gollum{
+    width: 120px;
+    height: 120px;
+    border-radius: 50px;
+}
+#white{
+    color: white;
+}
+.imageGollum{
+    width: 120px;
+    height: 120px;
+}
+#the-ring .card {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border: 0;
+    border-bottom: 4px solid #FE661D
+}
+
+#the-ring .card .card-body {
+    background: #ddd;
+    color: #151513
+}
+
+#the-ring .card .card-body .table {
+    font-family: "Aniron";
+    border: none
+}
+
+#the-ring .card .card-body .table thead tr th {
+    border: none;
+    border-bottom: 2px solid #151513
+}
+
+#the-ring .card .card-body .table tbody {
+    color: #898989
+}
+
+#the-ring .card .card-body .table tbody tr:nth-child(odd) {
+    background: #E2DEDB
+}
+
+#the-ring .card .card-body .table tbody tr:nth-child(even) {
+    border: none;
+    border-top: 2px solid #BDBDBD;
+    border-bottom: 2px solid #BDBDBD
+}
+
+#the-ring .card .card-body .table td {
+    padding-left: 1.5em
+}
+.myPrecious{
+    margin-top: 20px;
+}
+.d-block{
+    font-size: 40px;
+}
+footer{
+    background-color: #c1c5cc;
+}
+hr{
+    border-top: 2px solid black;
+}
+.overlay h2{
+    font-size: 50px;
+}
+.gimliDead{
+    color: #FC8700;
+    font-size: 50px;
+}
+
+.gimlili{
+    text-decoration: line-through #FC8700;
+}
+.navbar{
+    background-color: #FC8700;
+}
+.nav-link{
+    color: grey;
+}
+.nav-item{
+    border-right: 1px solid white;
+}
+.ringTittle{
+    color: white;
+    font-family: "Aniron";
+}
+.media-body h2{
+    font-family: "party";
+    color: #FC8700;
+}
+h2{
+    text-transform: none;
+}
+.captures{
+    font-family: "party";
+}
+.bestHunters{
+    font-family: "Aniron";
+}
+.profiledash{
+    text-decoration: underline;
+}
+.rewardTittle{
+    color: white;
+    font-family: "party";
+    text-transform: none;
+}
+thead{
+    font-family: "Aniron"
+}
+td{
+    font-family: "Aniron";
+}
+h3{
+    font-family: "Aniron";
+}
+
+
+#fellows {
+    margin-top: 60px
+}
+
+#fellows .nav-pills .nav-item {
+    border-radius: 0;
+    padding: 0 1rem
+}
+
+#fellows .nav-pills .nav-item .nav-link {
+    color: #898989;
+    padding: 0;
+    border-radius: 0
+}
+
+#fellows .nav-pills .nav-item .nav-link.active {
+    color: #FE661D;
+    border-bottom: 3px solid #FE661D;
+    background: transparent
+}
+
+#fellows .nav-pills .nav-item .nav-link.active::before {
+    content: "b";
+    font-family: "tngan";
+    color: #ffb289;
+    padding-right: .25em
+}
+
+#fellows .nav-pills .nav-item .nav-link.active::after {
+    content: "b";
+    font-family: "tngan";
+    color: #ffb289;
+    padding-left: .25em
+}
+
+#fellows .row .card {
+    margin-bottom: 2rem;
+    border-radius: 0
+}
+
+#fellows .row .card .card-header {
+    padding: 0;
+    position: relative;
+    border:  solid black 4px;
+}
+
+#fellows .row .card .card-header .card-img-top {
+    border-radius: 0
+}
+
+#fellows .row .card .card-header .overlay {
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-transform: lowercase;
+    font-family: "party";
+    position: absolute;
+    top: 0;
+    padding: .25em .5em;
+    margin: auto;
+    text-align: center;
+    background: rgba(137, 137, 137, 0.6);
+    color: #FFF1DC
+}
+
+#fellows .row .card .card-header .overlay.dead {
+    background: rgba(0, 0, 0, 0.65)
+}
+
+#fellows .row .card .card-header .overlay.dead .info-reward {
+    background: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #FE661D;
+    text-transform: none;
+}
+
+#fellows .row .card .card-header .overlay.dead .info-reward+span {
+    text-decoration: line-through;
+    -webkit-text-decoration-color: #FE661D;
+    text-decoration-color: #FE661D;
+}
+
+#fellows .row .card .card-header .overlay .info-reward {
+    border-radius: 1em;
+    background: rgba(249, 249, 249, 0.8);
+    -webkit-box-shadow: 0 0 8px #F9F9F9;
+    box-shadow: 0 0 8px #F9F9F9;
+    color: #151513;
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    right: 1em;
+    padding: 1em
+}
+
+#fellows .row .card .card-header .overlay .info-reward .coins {
+    font-size: 2rem
+}
+
+#fellows .row .card .card-body {
+    font-size: 2rem
+}
+
+#reward .media {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem
+}
+#contact form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;
+    font-family: "Aniron"
+}
+
+#contact form textarea {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1;
+    flex: 1 1;
+    height: 100%
+}
+.card-body{
+    background-color: black;
+    color: grey;
+}
+footer a {
+    display: block;
+    color: #FFF1DC
+}
+
+footer a:hover {
+    color: #FFF1DC
+}
+footer{
+    font-family: "Aniron"
+}
+
+
+
+@media (max-width: 576px) {
+    .carousel-caption h5, .carousel-caption p{
+        font-size: initial!important;
+    }
+}
+@media (max-width: 768px) {
+    .carousel-caption h5, .carousel-caption p{
+        font-size: initial!important;
+    }
+}
+
+@media (max-width: 992px) {
+    h2.gandalff{
+        margin-top: 100px!important; 
+    }
+}
